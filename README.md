@@ -1,0 +1,2 @@
+# SpeechrecoqnitionAI
+python made AI
